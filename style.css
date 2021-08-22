@@ -125,7 +125,7 @@ body::before{
     }
 }
 input + label{
-    position: absolute;
+    position: fixed;
     left: -100px;
     z-index: 1;
     width: 36px;
